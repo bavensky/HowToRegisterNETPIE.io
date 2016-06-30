@@ -1,4 +1,4 @@
 # Summary
 
-* [Registor NETPIE.io](README.md)
+* [Register NETPIE.io](README.md)
 
